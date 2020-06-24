@@ -1,0 +1,53 @@
+#fer-log {
+	width: 20%;
+	opacity: 1;
+	margin: 3% 3% 3% 3%;
+}
+
+#chooser {
+	margin: auto;
+	width: 25%;
+	padding-bottom: 8%;
+}
+
+#fer-log:hover {
+	opacity: .4;
+
+}
+
+#bmw-log {
+	width: 20%;
+	opacity: 1;
+	padding-left: 6%;
+	margin: 3% 3% 3% 50%;
+}
+
+#bmw-log:hover {
+	opacity: .4;
+}
+
+.portfolio-description {
+	margin-top: 5%;
+	margin-left: 6%;
+}
+
+@media only screen and (max-width: 768px)
+{
+	#fer-log {
+	width: 100%;
+	opacity: 1;
+	margin: 2% 2% 2% 2%;
+}
+	#bmw-log {
+	width: 100%;
+	opacity: 1;
+	margin: 2% 2% 2% 2%;
+}
+
+	.portfolio-description {
+		margin-top: 16%;
+	}
+
+}
+
+
